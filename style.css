@@ -3,6 +3,7 @@ body{
 }
 .flexible-container{
     display: flex;
+    margin-top: 100px;
     margin-bottom: 100px;
 }
 .color{
@@ -45,4 +46,8 @@ body{
     background-color: black;
     padding:2%;
     box-shadow: 10px 10px 40px gray;
+}
+div img{
+    width: 100%;
+    
 }
